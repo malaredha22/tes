@@ -1,0 +1,3 @@
+<?php 
+
+  die("TIF file malicious code works");
